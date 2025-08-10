@@ -1,0 +1,8 @@
+/var/www/html/Rust-Employee-API-PHP/rust_api/target/debug/deps/unicode_ident-27b708a2ea44f53b.d: /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/lib.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/tables.rs
+
+/var/www/html/Rust-Employee-API-PHP/rust_api/target/debug/deps/libunicode_ident-27b708a2ea44f53b.rlib: /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/lib.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/tables.rs
+
+/var/www/html/Rust-Employee-API-PHP/rust_api/target/debug/deps/libunicode_ident-27b708a2ea44f53b.rmeta: /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/lib.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/tables.rs
+
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/lib.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-ident-1.0.18/src/tables.rs:

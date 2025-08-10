@@ -1,0 +1,13 @@
+/var/www/html/Rust-Employee-API-PHP/target/debug/deps/log-572b90373baf79bc.d: /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/mod.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/error.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/key.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/source.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/value.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs
+
+/var/www/html/Rust-Employee-API-PHP/target/debug/deps/liblog-572b90373baf79bc.rmeta: /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/mod.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/error.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/key.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/source.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/value.rs /home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs
+
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/lib.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/macros.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/serde.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/mod.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/error.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/key.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/source.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/kv/value.rs:
+/home/ivan-isaac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.26/src/__private_api.rs:
